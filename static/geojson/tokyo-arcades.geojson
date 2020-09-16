@@ -1,0 +1,109 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Taito HEY, Akihabara",
+        "address": "101-0021 Tokyo, Chiyoda City, Sotokanda",
+        "url": "https://www.taito.co.jp/store/00001703",
+        "description": "On Chuo Dori, one of Akihabara’s main thoroughfares, stands Hirose Entertainment Yard, or HEY for short. The building is large but not particularly remarkable, but what’s inside is one of the holiest spots in Tokyo gaming."
+      },
+      "geometry": {
+        "coordinates": [139.75842, 35.697369],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Joypolis, Odaiba",
+        "address": "135-0091 Tokyo, Minato City, Daiba",
+        "url": "https://tokyo-joypolis.com/",
+        "description": "Joypolis is what happens when you mix a video game arcade with a theme-park – a hybrid monster of gaming spectacle and bombast. Cross Rainbow Bridge onto Odaiba, an island just off Tokyo bay, and experience it for yourself."
+      },
+      "geometry": {
+        "coordinates": [139.775304, 35.628718],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Club Sega, Shinjuku",
+        "address": "160-0023 Tokyo, Shinjuku City, Nishishinjuku",
+        "url": "https://tempo.sega.jp/am/nishiguchi",
+        "description": "Club Sega, with branches across the city (Shinjuku and Akihabara the largest), lacks the flash and gimmicks of some places, but is the first choice for Tokyo’s habitual gamers. Find endless rows of machines with games new and old, including virtual horse-racing, card-based systems and classics like Tekken and Virtua Fighter."
+      },
+      "geometry": {
+        "coordinates": [139.697543, 35.689982],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shinjuku Batting Centre, Shinjuku",
+        "address": "160-0021 Tokyo, Shinjuku City, Kabukicho",
+        "url": "http://metro-net.co.jp/business/amusement/batting_center/",
+        "description": "The principal draw of this place is the batting cages, which for 300 yen a pop will fire balls at you in a test of your batting prowess. However, inside the main building is a good number of arcade games, largely sporting based but also including gems such as Tetris and Street Fighter."
+      },
+      "geometry": {
+        "coordinates": [139.704441, 35.696804],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Game Bar-A-Button, Akihabara",
+        "address": "110-0016 Tokyo, Taito City, Taito",
+        "url": "http://a-button.jp/",
+        "description": "Not all arcades have to be sprawling monoliths, as demonstrated by Game Bar-A-Button, a nice little hang-out soothingly set apart from the maids and lights of Electric Town."
+      },
+      "geometry": {
+        "coordinates": [139.777375, 35.701325],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Anata No Warehouse, Kawasaki",
+        "address": "210-0024 Kawasaki, Kawasaki Ward, Nisshincho",
+        "url": "",
+        "description": "Anata No Warehouse (“Your Warehouse”) in Kawasaki is the antidote to the sleek post-modernism of many arcades. In fact, it might be considered an antidote to the cleanliness and order of the whole of the country."
+      },
+      "geometry": {
+        "coordinates": [139.693891, 35.527313],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Super Potato, Akihabara",
+        "address": "101-0021 Tokyo, Chiyoda City, Sotokanda",
+        "url": "https://www.superpotato.com/",
+        "description": "Hidden away on a non-descript back street, this is a treasure trove of childhood nostalgia and a venerable museum of gaming history."
+      },
+      "geometry": {
+        "coordinates": [139.770747, 35.699533],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Takadanobaba Mikado Game Center, Shinjuku",
+        "address": "169-0075 Tokyo, Shinjuku City, Takadanobaba",
+        "url": "http://mi-ka-do.net/",
+        "description": "A great place to dive into legendary fighting games and retro classics in a relaxed atmosphere."
+      },
+      "geometry": {
+        "coordinates": [139.703433, 35.713432],
+        "type": "Point"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
