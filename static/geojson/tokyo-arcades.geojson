@@ -9,7 +9,7 @@
         "description": "On Chuo Dori, one of Akihabara’s main thoroughfares, stands Hirose Entertainment Yard, or HEY for short. The building is large but not particularly remarkable, but what’s inside is one of the holiest spots in Tokyo gaming."
       },
       "geometry": {
-        "coordinates": [35.697369, 139.75842],
+        "coordinates": [139.75842, 35.697369],
         "type": "Point"
       }
     },
@@ -22,7 +22,7 @@
         "description": "Joypolis is what happens when you mix a video game arcade with a theme-park – a hybrid monster of gaming spectacle and bombast. Cross Rainbow Bridge onto Odaiba, an island just off Tokyo bay, and experience it for yourself."
       },
       "geometry": {
-        "coordinates": [35.628718, 139.775304],
+        "coordinates": [139.775304, 35.628718],
         "type": "Point"
       }
     },
@@ -35,7 +35,7 @@
         "description": "Club Sega, with branches across the city (Shinjuku and Akihabara the largest), lacks the flash and gimmicks of some places, but is the first choice for Tokyo’s habitual gamers. Find endless rows of machines with games new and old, including virtual horse-racing, card-based systems and classics like Tekken and Virtua Fighter."
       },
       "geometry": {
-        "coordinates": [35.689982, 139.697543],
+        "coordinates": [139.697543, 35.689982],
         "type": "Point"
       }
     },
@@ -48,7 +48,7 @@
         "description": "The principal draw of this place is the batting cages, which for 300 yen a pop will fire balls at you in a test of your batting prowess. However, inside the main building is a good number of arcade games, largely sporting based but also including gems such as Tetris and Street Fighter."
       },
       "geometry": {
-        "coordinates": [35.696804, 139.704441],
+        "coordinates": [139.704441, 35.696804],
         "type": "Point"
       }
     },
@@ -61,7 +61,7 @@
         "description": "Not all arcades have to be sprawling monoliths, as demonstrated by Game Bar-A-Button, a nice little hang-out soothingly set apart from the maids and lights of Electric Town."
       },
       "geometry": {
-        "coordinates": [35.701325, 139.777375],
+        "coordinates": [139.777375, 35.701325],
         "type": "Point"
       }
     },
@@ -74,7 +74,7 @@
         "description": "Anata No Warehouse (“Your Warehouse”) in Kawasaki is the antidote to the sleek post-modernism of many arcades. In fact, it might be considered an antidote to the cleanliness and order of the whole of the country."
       },
       "geometry": {
-        "coordinates": [35.527313, 139.693891],
+        "coordinates": [139.693891, 35.527313],
         "type": "Point"
       }
     },
@@ -87,7 +87,7 @@
         "description": "Hidden away on a non-descript back street, this is a treasure trove of childhood nostalgia and a venerable museum of gaming history."
       },
       "geometry": {
-        "coordinates": [35.699533, 139.770747],
+        "coordinates": [139.770747, 35.699533],
         "type": "Point"
       }
     },
@@ -100,7 +100,7 @@
         "description": "A great place to dive into legendary fighting games and retro classics in a relaxed atmosphere."
       },
       "geometry": {
-        "coordinates": [35.713432, 139.703433],
+        "coordinates": [139.703433, 35.713432],
         "type": "Point"
       }
     }
