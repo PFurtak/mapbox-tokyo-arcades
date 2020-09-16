@@ -1,4 +1,56 @@
 body {
-  background-color: black;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: 10vw 30vw 10vw;
+  grid-gap: 1em;
+}
+
+header,
+footer {
+  grid-column: 1 / span 5;
+}
+
+main {
+  grid-column: 1 / span 3;
+}
+
+aside {
+  grid-column: span 2;
+}
+
+@media (max-width: 700px) {
+  main,
+  aside {
+    grid-column: 1 / span 5;
+  }
+}
+
+/* Demo Specific Styles */
+body {
+  margin: 0 auto;
+  max-width: 56em;
+  padding: 1em 0;
+  background: linear-gradient(rgba(0, 0, 0, 0.2) 25%, rgba(0, 0, 0, 0.2) 75%),
+    url('/static/img/nicholas-doherty-WCilVtmbN_E-unsplashL.jpg') 50% 0 repeat-y
+      fixed;
+  background-size: cover;
+}
+
+header,
+main,
+aside,
+footer {
+  background: black;
+  opacity: 0.8;
   color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 3px;
+  border: 2px solid white;
+}
+
+header,
+footer {
+  height: 10vw;
 }
