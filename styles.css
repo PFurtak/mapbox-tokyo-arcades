@@ -19,13 +19,15 @@ body {
 }
 
 h2 {
-  font-size: 7rem;
+  font-size: 6rem;
   text-shadow: 0.5rem 1rem 2rem rgba(0, 0, 0, 0.6);
 }
 
 main {
   display: flex;
-  margin-top: 4rem;
+  margin-top: 6rem;
+  margin-left: 25rem;
+  margin-right: 25rem;
   height: 55vh;
   border: 2px solid #61dafb;
   border-radius: 3px;
@@ -41,7 +43,7 @@ main {
 .header {
   display: flex;
   height: 20vh;
-  font-family: 'Permanent Marker', cursive;
+  font-family: 'Sriracha', cursive;
   font-size: 5rem;
   align-items: center;
   justify-content: center;
@@ -56,9 +58,10 @@ main {
   display: flex;
   flex-direction: column;
   height: 45vh;
-  font-family: 'Itim', cursive;
+  font-family: 'Sriracha', cursive;
   font-size: 3.5rem;
-  margin-top: 4rem;
+  font-weight: 100;
+  margin-top: 6rem;
   color: #61dafb;
   align-items: center;
   justify-content: space-evenly;
@@ -80,7 +83,7 @@ main {
   background-color: rgba(0, 0, 0, 0.6);
   border: 2px solid #61dafb;
   border-radius: 3px;
-  margin-top: 4rem;
+  margin-top: 6rem;
   height: 9vh;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
 }
